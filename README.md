@@ -1,3 +1,6 @@
+https://blog.csdn.net/weixin_44791964/article/details/106214657
+https://www.bilibili.com/video/BV1Q54y1D7vj
+
 ## YOLOV4：You Only Look Once目标检测模型在pytorch当中的实现
 ---
 
